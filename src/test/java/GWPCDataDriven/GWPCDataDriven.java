@@ -23,7 +23,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 //			System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
 			WebDriverManager.chromedriver().setup();
 			WebDriver driver = new ChromeDriver();
-			driver.get("https://pc-qa3-corecon.emc.dev-1.us-east-1.guidewire.net/PolicyCenter.do");
+			driver.get("https://pc-qa2-corecon.emc.dev-1.us-east-1.guidewire.net/PolicyCenter.do");
 			
 			// Maximize the browser window and wait for populating all web elements
 			

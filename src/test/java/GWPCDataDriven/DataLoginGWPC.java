@@ -22,7 +22,7 @@ public class DataLoginGWPC {
 				
 				//Create an object of File class to open xlsx file
 				
-				File file = new File ("C:\\GW Automation Scripts\\GWPCDataDriven\\GWPC_Data1.xlsx");
+				File file = new File ("C:\\GW Automation Scripts\\GWPCDataDriven\\GWPC_Data2.xlsx");
 				
 				//Create an object of FileInputStream class to read excel file
 				
